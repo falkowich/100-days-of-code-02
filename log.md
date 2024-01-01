@@ -41,8 +41,9 @@ Nothing public yet
 
 **Today's Progress**
 
-TBA
+None of what I planned, just played with different webscapers.  
+
 
 **Thoughts**
 
-TBA
+Not so much done today, perhaps more tomorrow :)
