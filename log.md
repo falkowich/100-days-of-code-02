@@ -1,30 +1,48 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+- [100 Days Of Code - Log](#100-days-of-code---log)
+  - [Things I want to..](#things-i-want-to)
+    - [test out](#test-out)
+    - [learn more of](#learn-more-of)
+    - [work more on](#work-more-on)
+  - [100days_of_code repos](#100days_of_code-repos)
+  - [Week 1](#week-1)
+    - [Day 0: Januari 01, 2024](#day)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+## Things I want to..
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+### test out
 
-**Link to work:** [Calculator App](http://www.example.com)
+- [ ] Go, create a cli api agent in go.
+- [ ] Rust, create a cli api agent in rust (doh)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### learn more of
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+Try to do all this in neovim instaed of vscode.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+### work more on
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+Moar here, soon :tm:
 
+## 100days_of_code repos
 
-### Day 1: June 27, Monday
+Public things that I tried out and worked with when doing the "challange" 100days of code.
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+Nothing public yet
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+## Week 1
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+### Day 0: Januari 01, 2024
+
+**Planned Today**
+
+- Getting to use vimotion for reals
+- HelloWorld! (go)
+
+**Today's Progress**
+
+TBA
+
+**Thoughts**
+
+TBA
