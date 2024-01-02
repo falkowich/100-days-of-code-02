@@ -58,7 +58,7 @@ Not so much done today, perhaps more tomorrow :)
 Evrytng was installed (Newly ubuntu install from zero).  
 And all the hello world's was done (I know, nothing to phone home about, but now I can verify that the languages is working on my system)
 
-** Thoughts**
+**Thoughts**
 
 Today was fun, things almost worked as I wanted.  
 neovim with kickstart and some nice things was installed.  
