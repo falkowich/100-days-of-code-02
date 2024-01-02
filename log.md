@@ -7,7 +7,7 @@
     - [work more on](#work-more-on)
   - [100days_of_code repos](#100days_of_code-repos)
   - [Week 1](#week-1)
-    - [Day 0](Day0)
+    - [Day 0](#Day0)
 
 ## Things I want to..
 
