@@ -8,6 +8,7 @@
   - [100days_of_code repos](#100days_of_code-repos)
   - [Week 1](#week-1)
     - [Day 0](#day-0)
+    - [Day 1](#day-1)
 
 ## Things I want to..
 
@@ -43,11 +44,24 @@ Nothing public yet
 - HelloWorld (zig)
 
 ### Day 0 ####
-**Today's Progress**
+**Progress**
 
 None of what I planned, just played with different webscapers.  
-
 
 **Thoughts**
 
 Not so much done today, perhaps more tomorrow :)
+
+### Day 1 ####
+**Progress**
+
+Evrytng was installed (Newly ubuntu install from zero).  
+And all the hello world's was done (I know, nothing to phone home about, but now I can verify that the languages is working on my system)
+
+** Thoughts**
+
+Today was fun, things almost worked as I wanted.  
+neovim with kickstart and some nice things was installed.  
+
+Today was a good day :)
+
