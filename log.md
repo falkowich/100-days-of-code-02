@@ -7,7 +7,7 @@
     - [work more on](#work-more-on)
   - [100days_of_code repos](#100days_of_code-repos)
   - [Week 1](#week-1)
-    - [Day 0: Januari 01, 2024](#day)
+    - [Day 0](Day0)
 
 ## Things I want to..
 
@@ -32,13 +32,17 @@ Nothing public yet
 
 ## Week 1
 
-### Day 0: Januari 01, 2024
+2024-01-01
 
-**Planned Today**
+** Planned this week **
 
 - Getting to use vimotion for reals
 - HelloWorld! (go)
+- HelloWorld! (rust)
+- HelloWorld (ocamli)
+- HelloWorld (zig)
 
+### Day 0 ####
 **Today's Progress**
 
 None of what I planned, just played with different webscapers.  
