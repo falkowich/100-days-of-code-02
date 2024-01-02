@@ -13,8 +13,8 @@
 
 ### test out
 
-- [ ] Go, create a cli api agent in go.
-- [ ] Rust, create a cli api agent in rust (doh)
+- [ ] Get the feel for tooling for a few languages.
+- [ ] Pick two of them to create a cli program _(I'm not gonna lie, probably it will be go and rust :)_
 
 ### learn more of
 
