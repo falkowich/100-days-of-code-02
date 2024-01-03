@@ -9,6 +9,7 @@
   - [Week 1](#week-1)
     - [Day 0](#day-0)
     - [Day 1](#day-1)
+    - [Day 2](#day-2)
 
 ## Things I want to..
 
@@ -65,3 +66,12 @@ neovim with kickstart and some nice things was installed.
 
 Today was a good day :)
 
+### Day 2 ###
+**Progress**
+
+Mostly fighting with gopls.
+
+** Thoughts**
+
+Tomorrow at work it will be vscode again. 
+Going to use vimotions in code until I get the LSPs working.
