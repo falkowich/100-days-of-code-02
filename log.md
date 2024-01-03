@@ -71,7 +71,7 @@ Today was a good day :)
 
 Mostly fighting with gopls.
 
-** Thoughts**
+**Thoughts**
 
-Tomorrow at work it will be vscode again. 
+Tomorrow at work it will be vscode again.   
 Going to use vimotions in code until I get the LSPs working.
